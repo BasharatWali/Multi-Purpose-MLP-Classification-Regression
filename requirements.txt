@@ -1,0 +1,10 @@
+# Inferred from the notebook imports. Versions were not recorded in the original
+# environment (Google Colab, Fall 2023), so none are pinned.
+# `gdown` is only used to download the dataset CSV.
+torch
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+gdown

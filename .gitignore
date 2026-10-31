@@ -1,0 +1,11 @@
+# Dataset (downloaded by the notebook, ~199 MB)
+*.csv
+
+# Model checkpoints
+*.pth
+*.pt
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
