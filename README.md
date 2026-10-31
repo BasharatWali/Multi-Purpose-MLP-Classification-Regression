@@ -101,5 +101,3 @@ Multi-Purpose-MLP-Classification-Regression/
 ## Author
 
 **Basharat Ali**, National University of Sciences and Technology (NUST), Islamabad, Pakistan.
-
-Course: CS 878 Deep Learning, Fall 2023 (instructor: Dr. Muhammad Moazam Fraz).
